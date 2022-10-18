@@ -1,16 +1,19 @@
 Create a **PRIVATE** Repository on your Github account using the **"Use this template"** option. Work on solution for the coding challenge. Commit as you go to save your work incrementally. When done with the solution, push the code to github repository.
 
-Go to Github Repository > Settings > Manage Access. Grant access to following users on your private repository: @hamdyalcumus, @cloudbomber, @sj-dixon
 
 **Code Challenge Instructions:**
 Create an application using this framework that demonstrates your ability to build an API and object model that reflects the scenario. You should provide enough evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data. The solution should be created in C#. Persistent storage is not required for this test.
 
+
+When you are finished, go to Github Repository > Settings > Manage Access, and grant access to following users on your private repository: @hamdyalcumus, @cloudbomber, @sj-dixon and notify our HR representative that the submission is through.
 The focus of our evaluation will be:
 
 - To test your ability to create and/or update an API and object model based on a problem statement
 - To test your ability to use a unit testing framework of your choice
 - To test that the expected output is correct
 - Optional: Fully demonstrate your full stack skills by creating a UI for the C# application in modern React. If you choose to do this, we will evaluate it as a demonstration of your ability to create a UI and manage state in a react front end.
+
+
 
 Scenario:
 The World Wide Bank is a growing bank based in Canada that accepts money in North American currencies. The Bank’s customers can create 1 or more checking accounts, including joint accounts. The checking account balance is always tracked in Canadian currency. Deposits and withdraws can be made in Canadian dollars, US dollars or Mexican Pesos. The applicable exchange rate is applied when depositing or withdrawing a foreign currency. Funds can be transferred between two different accounts.
