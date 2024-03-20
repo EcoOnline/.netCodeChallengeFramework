@@ -5,7 +5,7 @@ Create a **PRIVATE** Repository on your Github account using the **"Use this tem
 Create an application using this framework that demonstrates your ability to build an API and object model that reflects the scenario. You should provide enough evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data. Your solution should also include a README that explains how to get it running after a git checkout. The solution should be created in C#. Persistent storage is not required for this test. 
 
 
-When you are finished, go to Github Repository > Settings > Manage Access, and grant access to following users on your private repository: @cloudbomber, @sj-dixon and notify our HR representative that the submission is through.
+When you are finished, go to Github Repository > Settings > Manage Access, and grant access to following users on your private repository: @cloudbomber, @sujai-sureshbabu, @mageshn18, @sj-dixon and notify our HR representative that the submission is through.
 The focus of our evaluation will be:
 
 - To test your ability to create and/or update an API and object model based on a problem statement
